@@ -1,5 +1,10 @@
 ![''](https://github.com/MatyD356/MatyD356/blob/master/rocketMan.gif)
 
+## Something about me:
+
+Hi there, I'm a student and I really enjoy building web-apps. My favourite part is front-end,
+recently I started to learn React and I'm trying my best to write better and better apps using it.
+
 ## Some of my projects:
 
 ### weather-app 🌩️
