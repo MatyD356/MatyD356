@@ -1,5 +1,5 @@
 # Hi, I'm Mateusz
-![''](https://github.com/MatyD356/MatyD356/blob/master/Animated%20GIF-downsized.gif)
+![''](https://github.com/MatyD356/MatyD356/blob/master/rocketMan.gif)
 
 ## Some of my projects:
 
