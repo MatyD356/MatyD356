@@ -1,9 +1,17 @@
-![''](https://github.com/MatyD356/MatyD356/blob/master/launch-cosmo.svg)
+# Hi, I'm Mateusz
+![''](https://github.com/MatyD356/MatyD356/blob/master/Animated%20GIF-downsized.gif)
 
-# My top projects:
+## Some of my projects:
 
-- [weather-app](https://github.com/MatyD356/weather-app)
-- [library](https://github.com/MatyD356/remeked-lib)
-- [tic-tac-toe](https://github.com/MatyD356/tic-tac-toe)
-- [rock-paper-scissors](https://github.com/MatyD356/rock-paper-scissors)
+### weather-app 🌩️
+- [code](https://github.com/MatyD356/weather-app/tree/master) [demo](https://matyd356.github.io/weather-app/)
+
+### library 📖
+- [code](https://github.com/MatyD356/remeked-lib/tree/master) [demo](https://matyd356.github.io/remeked-lib/)
+
+### tic-tac-toe 🎮
+- [code](https://github.com/MatyD356/tic-tac-toe) [demo](https://matyd356.github.io/tic-tac-toe/)
+
+### rock-paper-scissors 🎮
+- [code](https://github.com/MatyD356/rock-paper-scissors) [demo](https://matyd356.github.io/rock-paper-scissors/)
 
