@@ -1,4 +1,3 @@
-# Hi, I'm Mateusz
 ![''](https://github.com/MatyD356/MatyD356/blob/master/rocketMan.gif)
 
 ## Some of my projects:
