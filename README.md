@@ -19,7 +19,7 @@ recently I started to learn React and I'm trying my best to write better and bet
 - [code](https://github.com/MatyD356/tic-tac-toe) 
 - [demo](https://matyd356.github.io/tic-tac-toe/)
 
-### rock-paper-scissors 🎮
-- [code](https://github.com/MatyD356/rock-paper-scissors) 
-- [demo](https://matyd356.github.io/rock-paper-scissors/)
+### where's Waldo? 🎮
+- [code](https://github.com/MatyD356/waldo/tree/master) 
+- [demo](https://matyd356.github.io/waldo/)
 
